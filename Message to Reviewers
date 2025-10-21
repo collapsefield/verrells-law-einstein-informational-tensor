@@ -1,0 +1,62 @@
+To help with the review process, I wanted to pre-empt a few points that are likely to come up when reading the Verrell’s Law field-equation section.
+Below is a concise breakdown of the intended notation and the corrected forms used in the current draft:
+
+1. Main Field Equation
+Reviewer concern: Why is T νμ being multiplied by Ψ μν ?
+
+Intended form (final):
+ G μν + Λ g μν = κ T μν + Ψ μν
+
+Explanation:
+The Ψ-term is additive, not multiplicative. The earlier “×” symbol was shorthand.
+Response:
+
+The Ψ-term enters additively as an informational-stress contribution, not as a tensor product with T μν. The corrected additive form is consistent with conservation and covariance.
+
+2. Definition of Ψ μν
+Reviewer concern: What is π μ I and what does the dot mean?
+
+Intended form:
+ Ψ μν = κ I ∂ μ I ∂ ν I + λ I I g μν
+
+Explanation:
+“π μ I” represented canonical momentum (∂ μ I); the dot was just multiplication.
+Response:
+
+π μ I was an early placeholder for ∂ μ I. In the final formulation Ψ μν = κ I ∂ μ I ∂ ν I + λ I I g μν, a symmetric (0, 2) tensor derived directly from L int.
+
+3. Equation of Motion
+Reviewer concern: Clarify ∂ and ℘.
+
+Intended form:
+ κ I □ I − V′(I) = J_obs
+
+Explanation:
+“∂” should be the d’Alembertian (□); “℘” was a placeholder for the coupling κ I.
+Response:
+
+The field equation follows the standard Klein–Gordon structure with source term J_obs_. Previous symbols were typographical placeholders.
+
+4. Interaction Lagrangian
+Reviewer concern: Clarify constants and Lorentz form.
+
+Intended form:
+ L_int = (ξ / 4) F μν F^{μν} + κ I ∂ μ I ∂^ μ I − V(I)
+
+Explanation:
+ξ is the correct coupling coefficient; F μν F^{μν} ensures Lorentz invariance.
+Response:
+
+The constant is ξ (not 7 or η). The Lorentz scalar F μν F^{μν} is used; earlier drafts used numeric placeholders only.
+
+5. General Note on Framework and Lineage
+
+Verrell’s Law introduces an informational-stress term Ψ μν that biases field-collapse outcomes through memory-weighted interactions.
+It satisfies ∇ μ (T μν + Ψ μν) = 0 and remains empirically testable via phase-shift biasing and field-memory experiments.
+The structure is additive and covariant, not multiplicative or phenomenological.
+
+Thanks very much for taking the time to look through the submission.
+This note is simply to ensure notation and intent are fully clear before you dive into the equations.
+
+Best regards,
+M.R. (collapsefield)
