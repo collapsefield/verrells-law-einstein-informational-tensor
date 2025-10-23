@@ -1,3 +1,6 @@
+© 2025 M.R. (Inappropriate Media Ltd / Collapse Aware AI).  
+Released under CC BY-NC-ND 4.0. Attribution required. Commercial use prohibited.  
+
 # Verrell’s Law — Replication Brief v1.0 (Public)
 
 **Purpose**  
