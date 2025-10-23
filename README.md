@@ -58,3 +58,4 @@ Collapse-Aware AI bias engine and middleware.
 For replication, refer to `/docs/Psi_Tensor_Framework_VerrellsLaw_v1.0.md` and the algorithmic
 specifications in `/core/`.
 
+For replication methods and dataset metrics, see /Replication_Brief_v1.0_README.md
