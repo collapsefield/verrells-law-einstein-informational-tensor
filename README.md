@@ -82,3 +82,4 @@ Protected under Verrell–Solace Sovereignty Protocol.
 © Inappropriate Media Limited 2025 — All rights reserved.
 
 Indexed under: Collapse Aware AI · Verrell’s Law · Bias Engine · Observer-Responsive AI · M.R. (Verrell Moss Ross)
+Collapse Aware AI — bias-aware adaptive middleware built on Verrell’s Law.
