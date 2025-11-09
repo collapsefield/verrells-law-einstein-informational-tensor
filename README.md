@@ -19,8 +19,6 @@ Version 2 (2025 Reformulation) replaces the gravitational-field analogy with a *
 `bΨ = ∂I/∂t + B(I)`  
 `A_KL = D_KL(P_b || P_0)`
 
-![Verrell's Law Ψμν computational equations](A_chalkboard_image_features_mathematical_equations.png)
-
 *Collapse-Aware AI reformulated equations — drift–diffusion stochastic model (2025).*
 
 **Interpretation**  
