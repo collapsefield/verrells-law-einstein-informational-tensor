@@ -29,7 +29,7 @@ $$
 
 *Governor (Adaptive Gain Regulator) computes and applies **bΨ** to logits before Softmax.*
 
-📘 *Collapse-Aware AI: Computational Reformulation v1.2 — Drift-Diffusion Stochastic Model (2025).*
+📘 *Collapse-Aware AI: Computational Reformulation final canonical v1.3.png — Drift-Diffusion Stochastic Model (2025).*
 
 **Interpretation**  
 - **Drift term (bΨ):** memory-conditioned bias driving contextual resolution.  
