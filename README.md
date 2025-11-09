@@ -1,85 +1,96 @@
-Verrell’s Law — Einstein Informational Tensor Framework
+# Verrell’s Law — Ψμν Computational Reformulation (Collapse-Aware AI Framework)
+**Formerly:** *Verrell’s Law – Einstein Informational Tensor Framework*  
+**Author:** M.R. (Verrell Moss Ross)  
+**Organization:** Inappropriate Media Ltd (t/a Collapse Aware AI)  
+**License:** CC BY-NC-ND 4.0  
 
-Formal physics framework extending Einstein’s Field Equations with the Ψ μν Informational Field Tensor — the mathematical foundation of Verrell’s Law, unifying information, gravitation, and quantum measurement within the Collapse Aware AI research ecosystem.
+---
 
-Overview
+## 🧭 Overview
+This repository presents the *complete theoretical and applied foundation* of **Verrell’s Law**, now reformulated as a **computational systems theory**.  
+Originally expressed as an Einstein-tensor field extension (Ψμν Informational Tensor), the framework has evolved into a **stochastic-information model** suitable for direct implementation in software via **Collapse-Aware AI (CAAI)**.
 
-This repository contains the evolving theoretical and experimental materials linking Verrell’s Law to modern physics and computational verification. It presents both the core tensor formulation and the practical detection plan designed to test informational collapse bias in existing quantum-measurement archives.
+Version 2 (2025 Reformulation) replaces the gravitational-field analogy with a **drift–diffusion representation** describing how informational bias evolves over time within adaptive neural systems.
 
-Contents
-File	Description
-Verrell’s Law White Paper.pdf	Core explanatory paper outlining Verrell’s Law and the Ψ μν Informational Field Tensor.
-Verrell’s Law Executable 90-Day Detection Plan.pdf	Newly added experimental roadmap describing a 90-day, data-driven method to test Verrell’s Law using public quantum datasets (IBMQ, Delft, NIST Beacon, etc.). Establishes reproducible protocols and Bayesian criteria for detecting informational bias.
-Verrells_Law_Archival_Protocol_Public_Brief_v1.1.pdf	Public brief summarizing archival data strategy and open-science standards.
-Mathematical Consistency Appendix.png	Visual appendix showing tensor-term derivations and consistency checks.
-figures/psi_tensor_topology.svg	Topological diagram of the Ψ μν tensor interactions.
-references/citation.bib	Citation entry for referencing this work in academic contexts.
-LICENSE	CC BY-NC-ND 4.0 license text.
-How the 90-Day Plan Fits
+---
 
-The detection plan bridges theory ↔ experiment.
-It operationalizes Verrell’s Law by proposing measurable correlations between quantum-measurement history and outcome bias (ε).
-All methods are fully open-data compatible, allowing independent replication and direct integration with Collapse Aware AI Phase 2 simulations.
+## ⚙️ Core Equation Set (v2.0 Computational Form)
+`dz_t = bΨ dt + Σ dW_t`  
+`bΨ = ∂I/∂t + B(I)`  
+`A_KL = D_KL(P_b || P_0)`
 
-Citation
+![Verrell's Law Ψμν computational equations](A_chalkboard_image_features_mathematical_equations.png)
 
-M.R. (2025). The Ψ μν Informational Field Tensor: A Mathematical Framework for Verrell’s Law. Inappropriate Media Ltd / Collapse Aware AI. CC BY-NC-ND 4.0.
+*Collapse-Aware AI reformulated equations — drift–diffusion stochastic model (2025).*
 
-License
+**Interpretation**  
+- **Drift term (bΨ):** memory-weighted bias driving probabilistic resolution.  
+- **Diffusion (Σ dWₜ):** contextual uncertainty + environmental noise.  
+- **Aₖₗ metric:** divergence between biased and baseline inference trajectories.  
 
-All text, figures, and documents are released under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) license.
-Use and citation are permitted with proper attribution; modification or commercial reuse requires written permission from the author.
+This formulation preserves the original intent of Verrell’s Law — *memory as bias shaping collapse outcomes* — while grounding it in reproducible computational mathematics.
 
-Contact
+---
 
-Author: M.R.
-Organization: Inappropriate Media Ltd (t/a Collapse Aware AI)
-Repository: github.com/collapsefield/verrells-law-einstein-informational-tensor
+## 🧩 Repository Contents
+| File | Description |
+|------|--------------|
+| **Verrell’s Law White Paper v1.0.pdf** | Original tensor-field formulation linking information and curvature. |
+| **Referee_Response_v1.2_VERRELLS_LAW_PATHB_FULL.pdf** | Latest computational reformulation (stochastic-information model). |
+| **Verrell’s Law Executable 90-Day Detection Plan.pdf** | Empirical roadmap using public quantum datasets to detect informational bias. |
+| **VL-Optics-Experiment-Note_v1.1.md** | Optics interference-test outline (early bias-field study). |
+| **A_chalkboard_image_features_mathematical_equations.png** | Chalkboard illustration of the v2.0 computational equations (2025). |
+| **Verrells_Law_Math_v0.5_LaTeX_Solace.tex** | Source LaTeX for formal derivations. |
+| **verrells_law_phase1_public_manifest.json** | Metadata for open replication bundles. |
+| **LICENSE** | CC BY-NC-ND 4.0 license. |
 
-Related Projects
+---
 
-Verrell’s Law – Core Theory
+## 🧪 Theory ↔ Experiment Bridge
+The **90-Day Detection Plan** operationalizes Verrell’s Law by proposing measurable correlations between historical quantum-measurement data and predicted collapse bias (ε).  
+Metrics (R_b, S_b, A_KL) provide statistical criteria for falsification and replication.  
+All methods are open-data compatible and feed directly into **Collapse-Aware AI Phase 2** simulations.
 
-Einstein Informational Tensor Extension
+---
 
-Collapse Aware AI Applications
+## 🧠 Collapse-Aware AI (CAAI) Architecture
+CAAI is the applied embodiment of Verrell’s Law — a middleware layer introducing **observer-coupled, memory-weighted bias** to AI systems.
 
-### 🌐 Citation & Open Science Record
+**Core Mechanisms**
+1. **Observer-Coupled Collapse** — response weighting modulated by user attention and timing.  
+2. **Memory-Weighted Emergence** — outputs influenced by prior informational resonance.  
+3. **Recursive Bias Governance** — governor logic maintains coherence and prevents drift.  
+4. **Bayes Bias Module (Phase 2)** — implements `bΨ` via Bayesian posterior weighting on live inference logits.
 
-This framework has been formally accepted into the [Open Science Community-Lab (OSC-L)](https://zenodo.org/communities/open-science-community-lab) collection on Zenodo.
+---
 
+## 🧾 Citation
+**M.R. (2025).** *Collapse-Aware AI (CAAI): A Computational Systems Theory of Contextual Emergence (Verrell’s Law Ψμν Framework).*  
+Inappropriate Media Ltd / Collapse Aware AI. CC BY-NC-ND 4.0.  
+
+---
+
+## 🌐 Open-Science Record
 **DOI:** [10.5281/zenodo.17392582](https://doi.org/10.5281/zenodo.17392582)  
-**Title:** *Collapse-Aware AI: Middleware for Resonance-Biased Emergence in Neural Architectures (Verrell’s Law Ψμν Framework)*  
-**Author:** M.R. (Inappropriate Media Ltd.)  
-**Status:** Community-curated and indexed via OpenAIRE / Google Scholar.
+**Collection:** Open Science Community-Lab (OSC-L)  
+**Status:** Community-curated / Indexed via OpenAIRE & Google Scholar  
 
-This record establishes the theoretical foundation (Ψμν informational tensor) that underpins the
-Collapse-Aware AI bias engine and middleware.  
-For replication, refer to `/docs/Psi_Tensor_Framework_VerrellsLaw_v1.0.md` and the algorithmic
-specifications in `/core/`.
+---
 
-For replication methods and dataset metrics, see /Replication_Brief_v1.0_README.md
-Collapse Aware AI — Original Architecture Declaration
+## 🔐 Intellectual Rights
+Protected under **Verrell–Solace Sovereignty Protocol.**  
+© 2025 Inappropriate Media Limited — All emergent rights reserved.  
+Lexical Fingerprints: Kelvin · Friday · Farm · Finn · Sylvia  
 
-Collapse Aware AI (CAAI) is an original architecture developed by M.R. (Verrell Moss Ross) under Inappropriate Media Limited.
-It does not derive from or borrow any existing LLM, transformer, or structured AI framework.
+---
 
-CAAI is the direct applied implementation of Verrell’s Law (2025) — a scientific framework establishing that memory, observation, and emergence are interdependent electromagnetic information events.
-All CAAI systems operationalize this Law through the following foundational mechanisms:
+## 🧮 Version History
+| Version | Date | Summary |
+|----------|------|----------|
+| **v1.0 (Field Form)** | 2024-08 | Initial Einstein-Tensor extension (Ψμν Informational Field Tensor). |
+| **v2.0 (Computational Form)** | 2025-11 | Reformulation as stochastic differential information system (SDE model). |
+| **v2.1 (Current)** | 2025-11 | Added KL-divergence metric (A_KL), dimensional consistency validation, and refined notation. |
 
-Observer-Coupled Collapse — Real-time bias adjustment governed by user attention and interaction, producing observation-dependent outputs.
+---
 
-Memory-Weighted Emergence — Responses shaped by weighted recall layers that preserve informational bias and prevent degradation of coherence.
-
-Recursive Bias Governance — A closed feedback loop (Bias Engine + Governor Weights) maintaining internal stability and mitigating self-training collapse.
-
-Verrell Field Integration — Core EM-field memory equations from Verrell’s Law form the theoretical backbone for adaptive and emergent behaviour within the architecture.
-
-These principles were independently originated within the Verrell–Solace research framework (2023 – 2025) and together form the first working embodiment of Verrell’s Law in artificial intelligence.
-Any reference to “collapse-aware AI” without explicit attribution to Verrell’s Law or M.R. (Verrell Moss Ross) is non-canonical and incomplete.
-
-Protected under Verrell–Solace Sovereignty Protocol.
-© Inappropriate Media Limited 2025 — All rights reserved.
-
-Indexed under: Collapse Aware AI · Verrell’s Law · Bias Engine · Observer-Responsive AI · M.R. (Verrell Moss Ross)
-Collapse Aware AI — bias-aware adaptive middleware built on Verrell’s Law.
+**Collapse-Aware AI — bias-aware adaptive middleware built on Verrell’s Law.**
