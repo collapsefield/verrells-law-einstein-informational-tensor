@@ -7,8 +7,9 @@
 ---
 
 ## 🧭 Overview
-This repository presents the **complete theoretical and applied foundation** of **Verrell’s Law**, now fully reformulated as a **computational systems theory**.  
-Originally expressed as an Einstein-tensor field extension (Ψμν Informational Tensor), the framework has evolved into a **stochastic information model** suitable for direct software implementation within **Collapse-Aware AI (CAAI)**.
+This repository presents the established foundation of Verrell’s Law, expressed as both a physical field model and a computational systems framework.
+The original Einstein-tensor extension (Ψμν Informational Tensor) remains intact; the theory has since expanded into a stochastic information architecture that integrates directly with Collapse-Aware AI (CAAI).
+This evolution reflects the planned multi-phase design of the system — Phase-1 provides the core structure, while Phase-2 introduces additional probabilistic and behavioural layers without replacing the original model.
 
 The **v2.1 Computational Reformulation (2025)** replaces the gravitational analogy with a **drift–diffusion framework** describing how *informational bias evolves over time* within adaptive neural systems.
 
