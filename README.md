@@ -8,7 +8,7 @@
 
 
 **Contact:** Marcos Verrell Moss Ross (M.R.) 
-For verified licensing or research enquiries, contact collapseawareai@gmail.com
+For verified licensing or research enquiries, contact collapseawareai@gmail.com https://www.verrellslaw.org/
 
 ---
 
