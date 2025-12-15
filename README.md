@@ -2,7 +2,11 @@
 **Formerly:** *Verrell’s Law – Einstein Informational Tensor Framework*  
 **Author:** M.R. (Verrell Moss Ross)  
 **Organization:** Inappropriate Media Ltd (t/a Collapse Aware AI)  
-**License:** CC BY-NC-ND 4.0  
+**License:** CC BY-NC-ND 4.0 
+
+---
+
+
 **Contact:** Marcos Verrell Moss Ross (M.R.) collapseawareai@gmail.com
 
 ---
