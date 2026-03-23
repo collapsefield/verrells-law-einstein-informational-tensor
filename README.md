@@ -1,6 +1,6 @@
 # Verrell’s Law — Ψμν Computational Reformulation (Collapse-Aware AI Framework)
 **Formerly:** *Verrell’s Law – Einstein Informational Tensor Framework*  
-**Author:** Marcos (Verrell Moss Ross) M.R
+**Author:** Marcos Verrell(Moss Ross) M.R
 **Organization:** Inappropriate Media Ltd (t/a Collapse Aware AI)  
 **License:** CC BY-NC-ND 4.0 
 
