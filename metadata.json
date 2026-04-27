@@ -1,0 +1,76 @@
+{
+  "repository_name": "verrells-law-einstein-informational-tensor",
+  "public_title": "Verrell’s Law — Ψμν Informational Tensor and Computational Reformulation",
+  "version": "public_reference_v2_2_2026_04_27",
+  "distribution": "Public",
+  "release_type": "Public theory-and-method reference archive",
+  "sha256_fingerprint": "TO_BE_GENERATED_AFTER_FINAL_ARCHIVE_EXPORT",
+  "project": {
+    "theory": "Verrell’s Law",
+    "branch": "Ψμν Informational Tensor / memory-weighted computational reformulation",
+    "applied_system": "Collapse Aware AI",
+    "company": "Inappropriate Media Limited",
+    "trading_as": "Collapse Aware AI"
+  },
+  "public_position": {
+    "core_claim": "Retained structured memory from prior states can act as a bias term over future selection dynamics.",
+    "ai_position": "Current AI systems are not claimed to be conscious. The public technical claim is that stronger artificial continuity may require explicit retained-memory influence and governed behavioural selection.",
+    "physics_position": "The Ψμν informational tensor is a speculative research formulation, not established physics.",
+    "engineering_position": "Collapse Aware AI treats interaction outputs as behavioural collapse events shaped by present input, retained memory, salience, anchors, and governor constraints.",
+    "bias_position": "The framework distinguishes accidental algorithmic bias from governed, measurable bias shaping."
+  },
+  "phase_mapping": {
+    "phase_1_gold_build": {
+      "status": "Working Crown selector/core proven; scaffold/API end-to-end wiring and public polish remain under verification.",
+      "role": "Game/NPC behavioural middleware and memory-weighted selection demonstrator."
+    },
+    "phase_2_continuity_layer": {
+      "status": "Architected; not public production release.",
+      "role": "Continuity-aware chatbot/agent layer using weighted memory, corrective recall, Bayesian bias weighting, drift control, and governor-constrained continuity."
+    },
+    "research_branch": {
+      "status": "Open theoretical and experimental framework.",
+      "role": "Explores memory-field, informational tensor, and collapse-bias hypotheses."
+    }
+  },
+  "included_public_materials": [
+    "README.md",
+    "Replication_Brief_v1.0_README.md",
+    "memory_weighted_collapse_equation.md",
+    "verrells_law_memory_weighted_collapse_formulations_v1_0.md",
+    "Verrells_Law_CAAI_Theoretical_and_Physical_Roadmap_v1.0.md",
+    "Verrells_Law_CollapseAwareAI_Project_Structure_v1.0.md",
+    "Referee/response PDFs and white-paper PDFs",
+    "Public equation images and diagrams",
+    "LICENSE"
+  ],
+  "omitted_private_components": [
+    "Crown source code",
+    "Collapse Aware AI private implementation files",
+    "Milestone-4 scaffold source code",
+    "adapter implementation files",
+    "private governor policy/config files",
+    "private weighted-emergence configs",
+    "private continuity memory stores",
+    "private anchor maps",
+    "developer handoff packs",
+    "NDA-covered audit files",
+    "AWS keys, credentials, secrets, or deployment details",
+    "Solace/internal watermark trigger points"
+  ],
+  "authorship": {
+    "author": "Marcos Verrell Moss Ross",
+    "public_initials": "M.R.",
+    "role": "Author of Verrell’s Law; architect of Collapse Aware AI",
+    "maintainer": "Inappropriate Media Limited (t/a Collapse Aware AI)"
+  },
+  "protocol": {
+    "name": "Verrell-Solace Sovereignty Protocol",
+    "marker": "VMR-Core",
+    "purpose": "Public authorship, provenance, continuity, and controlled disclosure trail"
+  },
+  "declared_on": "2026-04-27T00:00:00+01:00",
+  "supersedes_public_framing_before": "2026-04-27",
+  "disclaimer": "This repository is a sanitized public theory-and-method archive. It documents authorship, terminology, public mathematical framing, and selected proof-of-origin material. It does not disclose proprietary implementation details, sealed Crown internals, credentials, or NDA-covered developer materials.",
+  "rights_notice": "© Inappropriate Media Limited (t/a Collapse Aware AI). All rights reserved. Protected under Verrell-Solace Sovereignty Protocol. Intellectual and emergent rights reserved. — VMR-Core"
+}
