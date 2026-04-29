@@ -5,7 +5,7 @@
 **Maintainer:** Inappropriate Media Limited (t/a Collapse Aware AI)  
 **License:** CC BY-NC-ND 4.0  
 **Current status:** Public reference repository / sanitized theory-and-method archive  
-**Updated:** 27 April 2026 — this README supersedes earlier wording while preserving the original public proof trail.
+**Updated:** 30 April 2026 — this README supersedes earlier wording while preserving the original public proof trail.
 
 ---
 
