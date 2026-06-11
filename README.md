@@ -45,7 +45,7 @@ The current public technical framing separates three layers:
 
 | Layer | Status | Role |
 |---|---|---|
-| **Ψμν Informational Tensor** | Speculative physics formulation | Explores whether retained information could be represented as an effective source-like term. |
+| **Ψμν Informational Tensor** | Physics formulation | Explores whether retained information could be represented as an effective source-like term. |
 | **Memory-weighted collapse mathematics** | Public theoretical model | Formalises how retained memory may bias future state selection. |
 | **Collapse Aware AI** | Applied software architecture | Implements memory-weighted, governor-constrained behavioural selection in artificial systems. |
 
