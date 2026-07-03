@@ -5,7 +5,7 @@
 **Maintainer:** Inappropriate Media Limited (t/a Collapse Aware AI)  
 **License:** CC BY-NC-ND 4.0  
 **Current status:** Public reference repository / sanitized theory-and-method archive  
-**Updated:** 30.06.2026 — this README supersedes earlier wording while preserving the original public proof trail.
+**Updated:** 03.07.2026 — this README supersedes earlier wording while preserving the original public proof trail.
 
 ---
 
@@ -33,7 +33,7 @@ The narrower public claim is:
 
 > Retained structured memory from prior states can act as a bias term over future selection dynamics.
 
-In the Collapse Aware AI context, this means each interaction can be treated as a governed behavioural collapse event shaped by present input, retained memory, salience, anchors, and governor constraints.
+In the Collapse Aware AI context, this means each interaction can be treated as a governed behavioural selection event shaped by present input, retained memory, salience, anchors, and governor constraints.
 
 ---
 
@@ -45,8 +45,8 @@ The current public technical framing separates three layers:
 
 | Layer | Status | Role |
 |---|---|---|
-| **Ψμν Informational Tensor** | Physics formulation | Explores whether retained information could be represented as an effective source-like term. |
-| **Memory-weighted collapse mathematics** | Public theoretical model | Formalises how retained memory may bias future state selection. |
+| **Ψμν Informational Tensor** | Speculative physics formulation | Explores whether retained information could be represented as an effective source-like term. |
+| **Memory-weighted collapse / selection mathematics** | Public theoretical model | Formalises how retained memory may bias future state selection. |
 | **Collapse Aware AI** | Applied software architecture | Implements memory-weighted, governor-constrained behavioural selection in artificial systems. |
 
 This distinction matters. The tensor form is a research hypothesis. The computational form is the practical engineering route.
@@ -102,7 +102,7 @@ d\mathbf{z}_t = \mathbf{b}_{\Psi}(\mathbf{z}_t, \mathbf{M}_t)\,dt + \mathbf{\Sig
 - **\(\beta\)** = anchor-stability influence
 - **\(\gamma\)** = entropy/uncertainty regulation
 
-This form preserves the original Verrell’s Law intent — **memory as bias shaping collapse outcomes** — while expressing it in a reproducible computational language.
+This form preserves the original Verrell’s Law intent — **memory as bias shaping collapse or selection outcomes** — while expressing it in a reproducible computational language.
 
 ---
 
@@ -124,7 +124,7 @@ Where:
 
 This is one of the clearest public expressions of the framework:
 
-> Collapse is not purely neutral over available possibilities; it can be weighted by retained information.
+> Collapse or selection is not purely neutral over available possibilities; it can be weighted by retained information.
 
 ---
 
@@ -158,7 +158,7 @@ Where:
 
 This tensor expression is included as a formal research direction, not as established physics.
 
-The current public engineering route is the computational memory-weighted collapse model and its application through Collapse Aware AI.
+The current public engineering route is the computational memory-weighted selection model and its application through Collapse Aware AI.
 
 ---
 
@@ -173,21 +173,21 @@ In the CAAI framing:
 3. Continuity state supplies historical weighting.
 4. Anchors preserve stable behavioural direction.
 5. Governor logic constrains unsafe, incoherent, or unwanted drift.
-6. Final behaviour is selected through governed collapse logic.
+6. Final behaviour is selected through governed selection logic.
 
 This does not prove the universal physics version of Verrell’s Law.
 
-It demonstrates that the principle can be implemented and tested in artificial systems.
+It demonstrates that the retained-state selection principle can be implemented and tested in artificial systems.
 
 ---
 
-## 8. Phase Mapping
+## 8. Public Development Mapping
 
-| Phase | Public role | Notes |
+| Track | Public role | Notes |
 |---|---|---|
-| **Phase 1 / Gold Build** | Game/NPC behavioural middleware | Crown selector/core proven; scaffold/API end-to-end wiring and public polish remain under verification. |
-| **Phase 2** | Continuity-aware chatbot / agent layer | Extends weighted memory, corrective recall, Bayes Bias, drift control, and governor-constrained continuity. |
-| **Research branch** | Verrell’s Law / Ψμν theory | Explores the broader memory-field and informational-collapse hypothesis. |
+| **Gold Build Core** | Game/NPC behavioural middleware proof track | Public evaluation should focus on retained-state influence, persistence, governor behaviour, diagnostic visibility, fallback handling, and integration shape. |
+| **Continuity / agent layer** | Later applied software direction | Extends weighted memory, corrective recall, drift control, and governor-constrained continuity into longer-running agent and chatbot settings. |
+| **Research branch** | Verrell’s Law / Ψμν theory | Explores the broader memory-field and informational-collapse hypothesis as research, not as completed proof. |
 
 ---
 
@@ -277,7 +277,8 @@ VMR-Core continuity marker retained for provenance.
 | **v1.0 Field Form** | 2024-08 | Initial Einstein-tensor extension using Ψμν informational field framing. |
 | **v2.0 Computational Form** | 2025-11 | Reformulation as stochastic differential information / drift–diffusion model. |
 | **v2.1 Canonical Public Form** | 2025-11 | Added KL-divergence framing, dimensional validation notes, and drift-term expansion. |
-| **v2.2 Public README Refresh** | 2026-04-27 | Tightened public scope, CAAI phase mapping, authorship, and non-consciousness disclaimer. |
+| **v2.2 Public README Refresh** | 2026-04-27 | Tightened public scope, CAAI mapping, authorship, and non-consciousness disclaimer. |
+| **v2.3 Scope Refresh** | 2026-07-03 | Tightened public development mapping and clarified tensor branch as speculative research, not completed physics. |
 
 ---
 
