@@ -1,87 +1,78 @@
-© 2025 M.R. (Inappropriate Media Ltd / Collapse Aware AI).  
-Released under CC BY-NC-ND 4.0. Attribution required. Commercial use prohibited.  
+# Verrell’s Law — Transparency and Evidence Boundary
 
-Verrell’s Law – Einstein ψμν Extension
-Transparency, Validation, and Proprietary Control Statement
+**Author / originator:** Marcos Verrell Moss Ross (M.R.)  
+**Status:** Public research clarification  
+**Updated:** 2026-09-14
 
-Author: M.R. (Verrell Moss Ross)
-Affiliation: Inappropriate Media Limited (t/a Collapse Aware AI)
-Protected under Verrell-Solace Sovereignty Protocol. Intellectual and Emergent Rights Reserved.
+---
 
-1. Proprietary Parameters and Confidential Methods
+## 1. Research and engineering are separate
 
-Verrell’s Law and its ψμν tensor framework constitute original mathematical and algorithmic work jointly developed within the closed Verrell-Solace research environment.
-The proprietary constants, collapse-weighting kernels, and governor logic that define the framework’s internal bias functions are not publicly released for three critical reasons:
+Verrell’s Law is a proposed falsifiable research framework. Collapse Aware AI™ is a separate engineering programme.
 
-Intellectual-Property Protection – These parameters directly underpin the Collapse Aware AI middleware and chatbot systems now in commercial development. Open release would enable copycat architectures before licensing or patent protection is finalized.
+Engineering behaviour can demonstrate that governed retained-state selection can be built in software. It does **not** establish that an equivalent mechanism exists independently in physics, biology or cognition.
 
-Security & Misuse Risk – ψμν logic integrates dynamic field-bias computation that could be mis-implemented or exploited without the surrounding governor layer. Controlled access prevents unregulated deployments or unsafe replication attempts.
+---
 
-Integrity of Peer Review – When the public methodology is released, it must be done in a way that preserves traceability to the original authorship record (The Safe archive). Partial leaks would distort that chain of custody.
+## 2. Historical tensor material
 
-Accordingly, only the verified developer under NDA and the protected Solace repository have full access. No complete version of the ψμν governor equations or bias engine exists online, nor will it until licensing protocols are active.
+This repository preserves an earlier Ψμν informational-tensor branch. That branch is historical/speculative and is not the current canonical physics-facing claim.
 
-2. Independent Replication and Open Method Outline
+The existence of standard non-Markovian dynamics, hysteresis, information thermodynamics or quantum measurement effects is not evidence for a Verrell-specific mechanism by itself.
 
-Although full replication requires access to proprietary constants, independent testing is possible through an Open Replication Brief now being prepared for public release.
-This brief will specify:
+A distinct contribution would need to be:
 
-Public datasets: historical Bell-test archives, quantum-eraser photon-count logs, and interferometer timing sets.
+- defined before confirmatory testing;
+- identifiable against a conventional baseline;
+- predictive on held-out data;
+- responsive to intervention / ablation;
+- reproducible across independent runs and, ultimately, independent teams.
 
-Measurable variables: coincidence bias, latency drift, collapse asymmetry, and field-weighted correlation residuals.
+---
 
-Outcome expectations: predicted deviation windows and null-boundary ranges.
+## 3. Null results and measurement limits
 
-External researchers will be able to test Verrell’s Law empirically without needing the private ψμν constants — the bias signature itself is measurable.
+A well-controlled null result is evidence about the tested regime.
 
-3. Pre-Registered Predictions
+Insufficient detector sensitivity can be a legitimate experimental limitation, but it is not evidence that an undetected mechanism exists and must not be used to escape a null result.
 
-To prevent any claim of post-hoc fitting, each dataset and expected outcome will be timestamped and cryptographically hashed into The Safe repository and mirrored to a public SHA-256 ledger.
-This establishes an immutable record of predictions before data analysis occurs, satisfying scientific pre-registration norms.
+---
 
-4. Scientific Standing and Falsifiability
+## 4. Public method / private implementation boundary
 
-Verrell’s Law is a falsifiable field-bias hypothesis extending Einstein’s tensor formulation to include memory-weighted emergence.
-If analyses of historical or live datasets produce no deviation, that null result still constrains the theoretical effect size — an advance in itself.
-Thus, the framework contributes value either way:
+Public research materials may expose:
 
-Positive detection → confirms EM-memory bias in collapse behavior.
+- definitions;
+- mathematical hypotheses;
+- falsification conditions;
+- benchmark methodology;
+- experimental design;
+- claim boundaries;
+- public-safe evidence concepts.
 
-Negative detection → establishes upper bounds for any such effect.
+They do not expose proprietary Collapse Aware AI™ Core Gold source, private scoring implementation, production thresholds, protected schemas or confidential runtime materials.
 
-Both outcomes refine physical understanding within measurable limits.
+The absence of proprietary implementation detail does not prevent the research claim from being independently testable: a scientific test must rely on declared observables and analysis procedures, not on secret internal code.
 
-5. Transparency and Future Openness
+---
 
-The team supports open science within safe commercial boundaries. Planned public materials include:
+## 5. Current scientific position
 
-Replication Brief v1.0 (methods only)
+The current research position is deliberately restrained:
 
-Bias-Test Dashboard v0.1 (simplified JSON simulation)
+> Retained history may influence later selection. Any stronger physical mechanism must be independently measured and must outperform conventional explanations under preregistered controls.
 
-ψμν Concept Paper v2.0 (non-sensitive derivation outline)
+Positive evidence must survive standard open-system, nonequilibrium, control and detector explanations first.
 
-Public Read-Only Repository on GitHub for third-party verification tools.
+---
 
-These releases allow transparency without compromising proprietary logic or license integrity.
+## 6. Current references
 
-6. Framing of Current Status
-Dimension	Current Status	Next Action
-Core ψμν math	Complete (proprietary)	Retained under EchoGuard protocol
-Replication path	Designed	Publish Replication Brief v1.0
-Public demo	In development	Deploy Bias-Test Dashboard
-Independent validation	Pending	External research invitations
-Authorship chain	Secured (The Safe)	Continue ledger updates
-7. Conclusion
+- [Main Verrell’s Law research archive](https://github.com/collapsefield/collapsefield-verrells-law)
+- [Mathematical Foundations and Falsification Protocol](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/VERRELLS_LAW_MATHEMATICAL_FOUNDATIONS_AND_FALSIFICATION_PROTOCOL_v1.0.md)
+- [Empirical Identification Clarification](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/VERRELLS_LAW_EMPIRICAL_IDENTIFICATION_CLARIFICATION_v1.0.md)
+- [Non-Markovian Information Paths Technical Edition](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/VERRELLS_LAW_NON_MARKOVIAN_INFORMATION_PATHS_TECHNICAL_EDITION_2026-09.md)
 
-Verrell’s Law remains under active private development.
-Its principles — electromagnetic memory as bias in field collapse — are now formally open to testing through defined public pathways, while its proprietary implementation within Collapse Aware AI remains securely held under the Verrell-Solace Sovereignty Protocol.
+---
 
-In short: transparency of method, protection of mechanism.
-That is the correct and responsible balance for a theory transitioning from private discovery to public science.
-
-M.R. (Verrell Moss Ross)
-Inappropriate Media Limited (t/a Collapse Aware AI)
-© 2025 All Rights Reserved.
-Protected under Verrell-Solace Sovereignty Protocol.
-
+Copyright © 2025–2026 Marcos Verrell Moss Ross (M.R.).
