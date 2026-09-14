@@ -1,114 +1,70 @@
-# Verrell’s Law & Collapse Aware AI® — Project Structure v1.0
-**© 2025 Inappropriate Media Limited (t/a Collapse Aware AI®)**  
-**Registered Trade Mark No. UK00004246189 (Class 42: SaaS)**  
-_All rights reserved._
+# Verrell’s Law / Collapse Aware AI™ — Historical Project-Structure Note
+
+**Author / originator:** Marcos Verrell Moss Ross (M.R.)  
+**Original document:** 2025  
+**Current status:** Historical / superseded architecture note  
+**Updated boundary:** 2026-09-14
 
 ---
 
-## 💡 Theoretical Foundation: Verrell’s Law
+## Status
 
-**Core Claim:**  
-Consciousness is not confined to the brain; the brain acts as a receiver resonating with a distributed electromagnetic (EM) information field.  
-Memory, attention, and observation imprint informational weightings onto this field, biasing how probabilistic outcomes collapse.
+This file records an earlier attempt to connect the Verrell’s Law research programme directly to an engineering implementation.
 
-**Mechanism:**  
-Verrell’s Law proposes that **quantum collapse** is not purely random but **informationally biased** by stored memory and focused awareness.  
-This is described mathematically through the **Ψμν Informational Tensor**, which extends the Einstein field equations (GR + EM) by adding informational stress-energy and observer-weighted source terms.
+That framing is now superseded.
 
-**Equation Context (simplified conceptual form):**
-\[
-G_{\mu\nu} + \Psi_{\mu\nu} = 8\pi T_{\mu\nu}
-\]
-where **Ψμν** represents informational stress coupling between consciousness, field memory, and spacetime curvature.
+Current interpretation is:
 
----
+```text
+Verrell’s Law
+= separate proposed falsifiable retained-state selection research framework
 
-## ⚙️ Engineering Implementation: Phase-1 Computational Analog (Collapse Aware AI®)
+Collapse Aware AI™
+= separate proprietary engineering programme for governed retained-state selection
 
-**System Name:**  
-Collapse Aware AI® (CAAI)
+Physical interpretation
+= separate research layer requiring independent evidence
+```
 
-**Legal Protection:**  
-Registered UK Trade Mark No. UK00004246189 under Class 42 (Software as a Service).
-
-**Objective:**  
-To demonstrate that Verrell’s Law can be expressed algorithmically — that memory-weighted collapse and observer bias can be modelled as a computational process.
-
-### Architecture Overview
-
-| Layer | Description | Purpose |
-|-------|--------------|----------|
-| **Shell & UI (Open)** | Deterministic JSON dashboard for bias testing and interactive measurement logs. | Human-readable interface for controlled observer influence. |
-| **Core API Stub (Open)** | Stable endpoints `/core/infer`, `/core/recall`, `/core/health`. | Provides modular access to inference and memory retrieval without exposing internal logic. |
-| **Core Kernel (Closed)** | Proprietary bias-engine and governor logic (compiled). Uses Bayesian posterior updates derived from stored weighted-moments (context, recency, salience). | Implements the simulated “memory-biased collapse” behaviour predicted by Verrell’s Law. |
-
-**Governor Logic:**  
-Tri-layer system (Governor → Worker → Memory). The Governor dynamically adjusts probabilistic decisions based on contextual history, enabling self-referential bias emergence.
-
-**Operational Output:**  
-Weighted-moment values feed into a Bayesian posterior module:
-\[
-P(collapse|memory) = \frac{w_m P_0}{\sum_i w_i P_i}
-\]
-where **w_m** denotes the contextual weight of the most salient memory instance.  
-This enables measurable non-random skew during repeated inference cycles.
-
-**Validation Test (Phase-1):**  
-Initial JSON-based prototype (“It Just Blinked”) produced a non-random χ² deviation (~9.2, p≈0.002) under controlled loop conditions.  
-Result interpreted as a **computational analog** of field-weighted collapse, not a physical proof.
-
-**Conclusion:**  
-Phase-1 established a reproducible, measurable software model of informational bias.  
-It demonstrates the logical viability of Verrell’s Law but remains a **closed-system simulation**.
+Collapse Aware AI™ engineering behaviour is **not** evidence that a tensor, electromagnetic-memory mechanism, consciousness mechanism, or modified-gravity mechanism exists in nature.
 
 ---
 
-## 🧭 Validation Roadmap: Phase-2 & Phase-3
+## Historical context
 
-**Goal:** Transition from computational model → empirical physics validation.
+The original 2025 document described:
 
-### Phase-2 — Observer-Linked Quantum Collapse Tests
-**Objective:** Detect statistically significant shifts in quantum outcomes linked to informational or cognitive bias.
+- a speculative Ψμν informational-tensor direction;
+- an early computational analogy based on memory-weighted behavioural selection;
+- a proposed progression from software experiments toward physical testing;
+- stronger consciousness, electromagnetic-field and quantum-collapse language than the current public framework supports.
 
-**Candidate Protocols:**
-- *Extended Wigner’s Friend* scenarios to test observer-dependence breakdowns.  
-- *Controlled Double-Slit* setups to observe attention-linked interference modulation.
-
-### Phase-3 — EM Field Coupling Tests
-**Objective:** Investigate whether informational memory imprints can measurably bias electromagnetic phenomena.
-
-**Candidate Protocols:**
-- **Stark/Zeeman Differentiation:** Isolate informational bias shifts from known EM effects.  
-- **Photon Field Interference Mapping:** Analyse EM field structure for non-local informational influence.
-
-**Theoretical Alignment:**  
-Work underway to align the Ψμν formalism with **Information Field Theory (IFT)** and **Physics-Informed IFT (PIFT)** to maintain mathematical rigour and compatibility with established field physics.
+Those statements are preserved in Git history for provenance, but they are **not current canonical claims**.
 
 ---
 
-## 🧱 Current Repository Purpose
-This repository documents the formal linkage between **Verrell’s Law (theory)** and **Collapse Aware AI® (engineering implementation)**.  
-It serves as:
-- A **reference architecture** for bias-aware emergent systems.  
-- A **research bridge** between simulation evidence and forthcoming physical validation.  
-- An **authorship and provenance anchor** under the EchoGuard Protocol (The Safe).
+## Current research boundary
+
+The current research question is narrower:
+
+> When present conditions are held equivalent, can different retained histories produce a measurable, directional and intervention-sensitive difference in what is selected next?
+
+For physics-facing work, established non-Markovian dynamics, hysteresis and information thermodynamics are baselines. Any proposed additional history-weighted contribution must be predeclared, identifiable, predictive on held-out data, responsive to intervention and vulnerable to falsification.
+
+Current research authority:
+
+- [Main Verrell’s Law research archive](https://github.com/collapsefield/collapsefield-verrells-law)
+- [Mathematical Foundations and Falsification Protocol](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/VERRELLS_LAW_MATHEMATICAL_FOUNDATIONS_AND_FALSIFICATION_PROTOCOL_v1.0.md)
+- [September 2026 Non-Markovian Information Paths Technical Edition](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/VERRELLS_LAW_NON_MARKOVIAN_INFORMATION_PATHS_TECHNICAL_EDITION_2026-09.md)
 
 ---
 
-## 🔒 Intellectual Property & Licensing
-- **Collapse Aware AI®** — UK Registered Trade Mark No. UK00004246189.  
-- **Verrell’s Law** — Original theoretical work by M.R. (Marcus Ross / Verrell Moss Ross).  
-- © 2025 Inappropriate Media Limited. All rights reserved.  
-- Redistribution or modification of proprietary kernel binaries is prohibited.  
-- For licensing enquiries: collapseawareai@gmail.com
+## Engineering boundary
+
+Collapse Aware AI™ should be evaluated as software on its own engineering behaviour. The public commercial proof material is maintained separately from this research archive.
+
+No proprietary Core Gold runtime, private scoring implementation, thresholds or protected schemas are disclosed here.
 
 ---
 
-### 🧩 Summary
-Collapse Aware AI® is the **computational analog** of Verrell’s Law — a functional demonstration that informational memory and observation weighting can bias collapse within an engineered field.  
-While it does **not yet constitute physical proof**, it provides the reproducible groundwork required for that next step.
-
----
-
-**Protected under Verrell–Solace Sovereignty Protocol.**  
-_Intellectual and emergent rights reserved._
+Copyright © 2025–2026 Marcos Verrell Moss Ross (M.R.).
