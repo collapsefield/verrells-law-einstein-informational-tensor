@@ -1,14 +1,16 @@
-© 2025 M.R. (Inappropriate Media Ltd / Collapse Aware AI).  
+© 2025 Marcos Verrell Moss Ross (M.R.).  
 Released under CC BY-NC-ND 4.0. Attribution required. Commercial use prohibited.  
+
+> **Historical / exploratory status:** This brief belongs to an earlier physics-facing branch and is preserved as a research-design record. It is not current evidence for the framework and does not override the present retained-state selection or non-Markovian information-paths specifications.
 
 # Verrell’s Law — Replication Brief v1.0 (Public)
 
 **Purpose**  
-Empirically test for *field-weighted collapse* signatures in legacy quantum experiments **without** exposing any proprietary ψμν constants or governor logic. Outcome is binary: detect pre-specified bias patterns beyond chance, or set tight upper bounds.
+Empirically test for *field-weighted collapse* signatures in legacy quantum experiments. Outcome is binary: detect pre-specified bias patterns beyond chance, or set tight upper bounds.
 
 **Scope**  
 - Bell-test archives (photons/spins), delayed-choice/quantum-eraser variants.  
-- ψμν-agnostic metrics only (dimensionless statistics; no private parameters).  
+- Publicly defined metrics only.  
 - Full preregistration + hashing for auditability.
 
 ---
@@ -33,7 +35,7 @@ For each dataset, publish a short prereg doc that fixes:
 - **SHA-256** of prereg text and code bundle.
 
 **Hash lines example**
-```
+```text
 SHA256(Weihs98_Prereg_v1.txt)= <hex>
 SHA256(metrics_v1_code.zip)= <hex>
 Timestamp: YYYY-MM-DD HH:MM UTC
@@ -44,7 +46,7 @@ Store hashes in `/hashes/` and paste them into the prereg file and repo README.
 
 ---
 
-## 3) Metrics (ψμν-agnostic)
+## 3) Metrics
 
 All tests preserve temporal structure (block-wise resampling) and report effect size + p + q (BH-FDR).
 
@@ -93,23 +95,16 @@ All tests preserve temporal structure (block-wise resampling) and report effect 
 
 ## 6) Outputs (public artifacts)
 
-```
+```text
 /Replication_Brief_v1.0/
-  README.md                 <-- this file
-  /scripts/metrics_v1/      <-- dataset-agnostic code
+  README.md
+  /scripts/metrics_v1/
   /results/
-    /weihs1998/summary.json
-    /nist2015/summary.json
-    /vienna2015/summary.json
-    /delft2015/summary.json
   /hashes/
-    prereg_shas.txt
-    code_shas.txt
   /FIGS/
-    <minimal plots only>
 ```
 
-Each summary.json must include: dataset name, N, exclusions, metrics tested, point estimates (effect sizes), 95% CI, p, q, robustness notes, code hash.
+Each summary should include: dataset name, N, exclusions, metrics tested, point estimates, 95% CI, p, q, robustness notes, and code hash.
 
 ---
 
@@ -117,13 +112,13 @@ Each summary.json must include: dataset name, N, exclusions, metrics tested, poi
 
 - **Positive:** ≥1 metric meets criteria and replicates in ≥2 datasets, same direction, robustness checks passed.  
 - **Null:** otherwise; report bounds (“no effect above X at 95%”).  
-- Either outcome tightens the empirical picture: confirmation or constraint.
+- Either outcome tightens the empirical picture.
 
 ---
 
-## 8) Minimal prereg template (copy/paste)
+## 8) Minimal prereg template
 
-```
+```text
 Dataset: NIST (2015) photons — belltestdata
 
 Hypotheses:
@@ -143,15 +138,8 @@ Exclusions:
  - Detector warm-up first 2 minutes (per detector log).
  - Dead-time saturation windows flagged by rate > P99.5 across the run.
 
-Robustness:
- - Coincidence window = {2, 4, 8, 16} ns; effect direction must be stable.
-
 Decision:
  - Positive requires ≥1 metric significant after BH and replicated in Delft or Vienna.
-
-Environment:
- - Python 3.x / R x.y; list exact libs + versions.
- - Fixed random seed(s).
 
 Hashes:
  SHA256(prereg.txt)= <hex>
@@ -162,52 +150,14 @@ Hashes:
 
 ---
 
-## 9) Empirical Test Addendum (Perplexity Alignment)
+## 9) Evidence boundary
 
-To standardize external replication, the following procedures are recognized as **equivalent** to the metrics above:
-
-1. **Coincidence Bias Analysis**  
-   Compute conditional probabilities P(o_a,o_b | s_a,s_b,k) for successive histories k. Deviations from Born-rule expectations = candidate ψμν bias.  
-   *(Equivalent to M1; conditional Born-rule deviation test).*
-
-2. **Latency Drift Assessment**  
-   Autocorrelation + partial autocorrelation (ACF/PACF) and clustering (e.g., DBSCAN) on inter-event latencies Δt.  
-   *(Extends M4 with explicit time-series diagnostics).*
-
-3. **Collapse Asymmetry Detection**  
-   Symmetry-residual tests under parameter flips/apparatus re-orientation; run-length and geometric cluster analyses.  
-   *(Covers M2 + M3 under symmetry framing).*
-
-4. **Field-Weighted Correlation Residuals**  
-   Apply context weighting w=f(E,B,∇I) to outcome residuals; evaluate coherence with predicted gradients via correlation tests and **Bayes Factors** (below).  
-   *(Vocabulary alignment; does not reveal proprietary f(·)).*
-
-5. **Cross-Validation**  
-   Repeat across Weihs ’98, Delft ’15, Vienna ’15, NIST ’15 to rule out dataset-specific artifacts.  
-   *(Matches the replication requirement).*
-
-### Bayes-factor model comparison (optional)
-Compare ψμν-weighted vs. null (standard quantum) models using Bayes Factor B_10.  
-- Prior on ψμν-weight parameters: broad, zero-centered, truncated to respect physical bounds (no proprietary constants).  
-- Interpretation (Jeffreys): B_10>3 = positive; >10 = strong evidence.  
-- Report sensitivity to prior width; include robustness plots.
-
-**Note:** This section is optional and ψμν-agnostic; do **not** disclose private kernels or governor mappings.
+Historical terminology in this document should not be read as a current assertion that a ψμν mechanism exists. A result is relevant only if a predeclared hypothesis survives controls, held-out testing, and independent replication. Conventional quantum, instrumental, thermal, environmental, and statistical explanations must be ruled out first.
 
 ---
 
-## 10) Compliance & privacy
+### Attribution
 
-- No numeric ψμν constants, kernels, or governor transfer functions are ever published.  
-- All public scripts are dataset-agnostic; all sensitive IP stays in the private Solace/EchoGuard environment and with the verified developer under NDA.
-
----
-
-### Attribution & Protection
-
-**Author:** M.R. (Verrell Moss Ross)  
-**Affiliation:** Inappropriate Media Limited (t/a Collapse Aware AI)  
-**Protection:** Verrell-Solace Sovereignty Protocol. Intellectual and Emergent Rights Reserved.  
-© 2025 All Rights Reserved.
-
-**Motto:** Transparency of method, protection of mechanism.
+**Author / originator:** Marcos Verrell Moss Ross (M.R.)  
+**Status:** Public historical replication-design note  
+© 2025 Marcos Verrell Moss Ross (M.R.). All rights reserved except as granted by the CC BY-NC-ND 4.0 notice above.
