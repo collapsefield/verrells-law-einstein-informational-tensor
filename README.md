@@ -1,190 +1,62 @@
 # Verrell’s Law — Physical Extension Archive
 
 **Former title:** *Verrell’s Law – Einstein Informational Tensor Framework*  
-**Author:** M.R. (Marcos Verrell Moss Ross), Author of Verrell’s Law  
-**Maintainer:** Inappropriate Media Limited (t/a Collapse Aware AI)  
+**Author / originator:** Marcos Verrell Moss Ross (M.R.)  
 **License:** CC BY-NC-ND 4.0  
 **Current status:** Public speculative archive / historical theory-and-method record  
-**Updated:** 2026-07-04 — this README supersedes earlier wording while preserving the original public proof trail.
-
----
-
-## Contact
-
-For verified licensing, research, or authorship enquiries:
-
-- **Email:** collapseawareai@gmail.com
-- **Website:** https://www.verrellslaw.org/
+**Updated:** 2026-09-14
 
 ---
 
 ## Status
 
-This repository contains speculative physical-extension notes and is **not** the current canonical statement of Verrell's Law.
+This repository preserves an earlier physics-facing extension of Verrell’s Law. It is **not** the current canonical statement of the framework and it is **not established physics**.
 
-The current public framework is retained-state selection:
+The current research programme is centred on retained-state selection: whether different retained histories can produce measurable, directional and intervention-sensitive differences under matched present conditions.
 
-> prior interactions can leave persistent state changes that bias future selection.
+No modification of general relativity, universal electromagnetic memory mechanism, consciousness-driven collapse mechanism, or informational stress-energy tensor is asserted here as established fact.
 
-No modification to general relativity is currently asserted here.
-
-Whether structured retained information has any physical stress-energy contribution is an open, currently unformulated question.
-
-For the current framework, use the retained-state documents instead:
+Current research references:
 
 - [Retained-State Selection Framework](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/RETAINED_STATE_SELECTION_FRAMEWORK.md)
-- [Verrell’s Law Mathematical Reference v1.3](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/VERRELLS_LAW_MATHEMATICAL_REFERENCE_v1.3.md)
-- [Falsifiable Memory-Bias Estimator](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/FALSIFIABLE_MEMORY_BIAS_ESTIMATOR.md)
-- [Falsification Conditions](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/FALSIFICATION_CONDITIONS.md)
-- [Speculative Extensions](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/SPECULATIVE_EXTENSIONS.md)
+- [Mathematical Foundations and Falsification Protocol v1.0](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/VERRELLS_LAW_MATHEMATICAL_FOUNDATIONS_AND_FALSIFICATION_PROTOCOL_v1.0.md)
+- [Empirical Identification Clarification v1.0](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/VERRELLS_LAW_EMPIRICAL_IDENTIFICATION_CLARIFICATION_v1.0.md)
+- [September 2026 Non-Markovian Information Paths Technical Edition](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/VERRELLS_LAW_NON_MARKOVIAN_INFORMATION_PATHS_TECHNICAL_EDITION_2026-09.md)
 
 ---
 
-## Repository Purpose
+## Repository purpose
 
-This repository preserves the public mathematical and technical trail for an earlier physical-extension branch of Verrell’s Law.
-
-It is maintained for:
+This repository is retained for:
 
 1. authorship continuity;
-2. historical record;
-3. public timestamping;
-4. separation between speculative physical ideas and the current retained-state selection framework.
+2. public timestamping;
+3. historical record;
+4. separation between speculative physical extensions and the current falsifiable research position.
 
-The repository does **not** claim that current AI systems are conscious.
-
-It does **not** claim that the physical-extension branch is established physics.
-
-It does **not** claim that Collapse Aware AI proves a tensor, field, or general-relativity modification.
+Some filenames and historical documents retain older terminology because they form part of the development trail. They should be read as historical material, not as the active claim boundary.
 
 ---
 
-## Current Public Position
+## Current boundary
 
-Verrell’s Law began as a broader field-memory and informational-collapse hypothesis.
+The useful surviving research question is not whether an earlier tensor proposal is already correct. It is whether **retained information can become measurable influence over what follows**, and whether that influence survives controlled comparison, intervention and falsification.
 
-The current public technical framing separates three layers:
+The current physics-facing route therefore treats established non-Markovian dynamics, hysteresis and information thermodynamics as scientific baselines to beat, not as evidence to count twice.
 
-| Layer | Status | Role |
-|---|---|---|
-| **Retained-state selection framework** | Current public framework | Models how prior state can bias future selection. |
-| **Collapse Aware AI** | Applied engineering track | Tests governed retained-state behavioural selection in software. |
-| **Physical extension ideas** | Speculative archive | Preserves earlier field/tensor direction as unproven research history. |
-
-This distinction matters.
-
-The tensor-style material in this repository should be read as historical/speculative, not as the current claim boundary.
+A positive result must survive conventional explanations. A null result in a properly defined regime is informative and must not be explained away by assuming an undetected mechanism.
 
 ---
 
-## Core Principle Preserved
+## Relationship to Collapse Aware AI™
 
-The part that survives into the current framework is:
+Collapse Aware AI™ is a separate engineering programme concerned with governed retained-state selection in software.
 
-```text
-Retained state
-↓
-Weighting / bias
-↓
-Selection
-↓
-Path-dependent outcome
-```
-
-Or compactly:
-
-> Memory shapes weighting. Weighting shapes selection. Selection shapes what follows.
-
-The current framework does not require a physical tensor for this principle to be meaningful, testable, or useful in engineering.
+Software behaviour does **not** establish a universal physical law. The engineering programme can be evaluated independently of this speculative archive.
 
 ---
 
-## Computational Reformulation
-
-The safer public route is computational and behavioural:
-
-- define a baseline condition;
-- define retained-state condition;
-- hold present input matched;
-- measure selection divergence;
-- estimate whether retained history contributes beyond the baseline;
-- report null results as refuted in the tested regime where appropriate.
-
-The relevant measurement route is maintained in:
-
-- [FALSIFIABLE_MEMORY_BIAS_ESTIMATOR.md](https://github.com/collapsefield/collapsefield-verrells-law/blob/main/FALSIFIABLE_MEMORY_BIAS_ESTIMATOR.md)
-
----
-
-## Relationship to Collapse Aware AI
-
-**Collapse Aware AI** is the applied middleware architecture connected to the retained-state selection principle.
-
-In public-safe terms:
-
-1. A base model, game system, or agent proposes candidate responses/actions.
-2. Middleware evaluates candidates using present-state input and retained-state influence.
-3. Governor logic constrains unstable, incoherent, or unwanted drift.
-4. Final behaviour is selected through governed selection logic.
-5. Diagnostic evidence can show public-safe behavioural divergence without exposing private Crown internals.
-
-This does not prove the universal physics version of Verrell’s Law.
-
-It demonstrates that the retained-state selection principle can be implemented and tested in artificial systems.
-
-Publish measurement, not control.
-
----
-
-## Repository Contents
-
-Some filenames are preserved for public indexing, search continuity, and authorship trail integrity.
-
-Older files in this repository may contain stronger tensor or field-language than the current public framework allows. Those files should be read as historical speculative material, not as the active claim boundary.
-
----
-
-## Theory ↔ Experiment Boundary
-
-The public test direction is:
-
-- define baseline/null models first;
-- use public datasets where possible;
-- preregister metrics before analysis;
-- report null results or upper bounds if no anomaly appears;
-- avoid exposing private constants, kernels, or proprietary CAAI mechanisms.
-
-The goal is not to force a positive result.
-
-The goal is to make the framework falsifiable, auditable, and technically bounded.
-
----
-
-## Scope Boundaries
-
-This repository does **not** disclose:
-
-- Crown source code
-- Collapse Aware AI private implementation files
-- private governor policies/configuration
-- proprietary memory stores or anchor maps
-- developer handoff packs
-- NDA-covered audit files
-- credentials, deployment details, or secret keys
-- private watermark trigger logic
-
-This repository is a public proof and theory archive, not the full commercial implementation.
-
----
-
-## Citation
-
-**M.R. / Marcos Verrell Moss Ross.** *Verrell’s Law — Physical Extension Archive and Computational Reformulation Record.*  
-Inappropriate Media Limited (t/a Collapse Aware AI). CC BY-NC-ND 4.0.
-
----
-
-## Open-Science Record
+## Open-science record
 
 **DOI:** [10.5281/zenodo.17392582](https://doi.org/10.5281/zenodo.17392582)  
 **Collection:** Open Science Community-Lab (OSC-L)  
@@ -192,25 +64,21 @@ Inappropriate Media Limited (t/a Collapse Aware AI). CC BY-NC-ND 4.0.
 
 ---
 
-## Intellectual Rights
+## Citation
 
-Protected under **Verrell–Solace Sovereignty Protocol**.  
-© Inappropriate Media Limited (t/a Collapse Aware AI). All rights reserved.  
-VMR-Core continuity marker retained for provenance.
+**Ross, M. V. M.** *Verrell’s Law — Physical Extension Archive.* Historical research record, retained for provenance and comparison with the current retained-state framework.
 
 ---
 
-## Version History
+## Rights
 
-| Version | Date | Summary |
-|---|---:|---|
-| **v1.0 Field Form** | 2024-08 | Initial tensor/field extension direction. |
-| **v2.0 Computational Form** | 2025-11 | Reformulation as stochastic information / drift–diffusion model. |
-| **v2.1 Public Form** | 2025-11 | Added validation notes and drift-term expansion. |
-| **v2.2 Public README Refresh** | 2026-04-27 | Tightened public scope, CAAI mapping, authorship, and non-consciousness disclaimer. |
-| **v2.3 Scope Refresh** | 2026-07-03 | Clarified tensor branch as speculative research, not completed physics. |
-| **v2.4 Retained-State Archive Demotion** | 2026-07-04 | Demoted physical-extension branch to archive and pointed current readers to retained-state framework. |
+Copyright © 2024–2026 Marcos Verrell Moss Ross (M.R.).
+
+Unless a file states otherwise, public research material in this repository is provided under the repository licence. No proprietary Collapse Aware AI™ runtime, private scoring implementation, production thresholds or protected schemas are contained here.
 
 ---
 
-**Collapse Aware AI — memory-weighted, governor-controlled behavioural middleware built from the applied branch of Verrell’s Law.**
+## Contact
+
+Research / authorship enquiries: **collapseawareai@gmail.com**  
+Website: https://www.verrellslaw.org/
