@@ -1,27 +1,26 @@
 # Verrell’s Law — Memory-Weighted Collapse Formulations (v1.0)
 
 **Author:** Marcos Verrell Moss Ross (M.R.)  
-**Project:** Collapse Aware AI / Verrell’s Law  
-**Organisation:** Inappropriate Media Limited (t/a Collapse Aware AI)  
-**Status:** Authorship trace note / theoretical framework statement  
-**Date:** 2026-03-17
+**Status:** Historical authorship trace note / theoretical framework statement  
+**Date:** 2026-03-17  
+**Current boundary:** Preserved as development history; not the current canonical physics-facing specification.
 
 ---
 
 ## Purpose
 
-This note formalizes three compact mathematical formulations used to distinguish the Verrell’s Law framework from standard gravity + electromagnetism + scalar-field constructions.
+This note formalizes three compact mathematical formulations used during development of the Verrell’s Law framework.
 
-The central claim is not merely that systems contain fields, matter, or state variables, but that **retained information (memory) can act as a biasing influence on state evolution and collapse selection**.
+The central idea recorded here is that **retained information can act as a biasing influence on later state evolution or selection**.
 
-This note is intended as a concise conceptual record and authorship trace within the broader Verrell’s Law archive.
+This note is an authorship and development record. It should not be read as evidence that any specific physical carrier or tensor mechanism has been established.
 
 ---
 
 ## Core Principle
 
 \[
-\text{Memory} \rightarrow \text{Bias} \rightarrow \text{Collapse}
+\text{Memory} \rightarrow \text{Bias} \rightarrow \text{Selection}
 \]
 
 Or more formally:
@@ -33,16 +32,14 @@ M \mapsto B \mapsto P(s_i)
 Where:
 
 - \( M \) = retained information / memory state
-- \( B \) = bias field or directional influence derived from memory
-- \( P(s_i) \) = probability of collapse into candidate state \( s_i \)
-
-The key distinction is that collapse is treated as **non-neutral** when prior informational structure is present.
+- \( B \) = directional influence derived from retained state
+- \( P(s_i) \) = probability of selecting candidate state \( s_i \)
 
 ---
 
 ## Formulation 1 — Effective Bias-Field Dynamics
 
-A retained memory state generates a bias field:
+A retained memory state is represented by an effective bias term:
 
 \[
 B(x,t) = \mathcal{F}[M(x,t)]
@@ -58,16 +55,14 @@ Where:
 
 - \( S \) = system state
 - \( \Phi(S,t) \) = baseline system dynamics
-- \( \lambda \) = coupling strength of the memory-derived bias
-- \( B(x,t) \) = effective directional influence sourced by memory
+- \( \lambda \) = coupling strength of the retained-state term
+- \( B(x,t) \) = effective directional influence
 
-### Interpretation
-
-This formulation expresses the idea that future state evolution is not governed only by instantaneous dynamics, but also by a memory-derived term that biases the system toward certain trajectories.
+This is an abstract modelling form. It does not by itself establish a physical field.
 
 ---
 
-## Formulation 2 — Memory-Conditioned Collapse Probability
+## Formulation 2 — Memory-Conditioned Selection Probability
 
 Neutral outcome weighting may be written abstractly as:
 
@@ -75,7 +70,7 @@ Neutral outcome weighting may be written abstractly as:
 P(s_i) = \frac{w_i}{\sum_j w_j}
 \]
 
-The Verrell’s Law-style extension introduces memory-conditioned weighting:
+A retained-state extension can be written:
 
 \[
 P(s_i \mid M) = \frac{w_i e^{\beta \mu_i(M)}}{\sum_j w_j e^{\beta \mu_j(M)}}
@@ -83,105 +78,49 @@ P(s_i \mid M) = \frac{w_i e^{\beta \mu_i(M)}}{\sum_j w_j e^{\beta \mu_j(M)}}
 
 Where:
 
-- \( s_i \) = candidate realized state
-- \( w_i \) = baseline weight of candidate state \( i \)
-- \( M \) = retained memory / informational context
-- \( \mu_i(M) \) = memory-derived preference or bias applied to state \( i \)
-- \( \beta \) = coupling parameter controlling memory influence strength
+- \( s_i \) = candidate state
+- \( w_i \) = baseline weight
+- \( M \) = retained state
+- \( \mu_i(M) \) = retained-state compatibility / bias term
+- \( \beta \) = coupling parameter
 
-### Interpretation
-
-This formulation captures the central claim cleanly:
-
-**collapse is not purely neutral over available possibilities; it is weighted by retained information.**
-
-This is one of the clearest compact expressions of the framework.
+This compactly represents the development idea that retained history may alter later selection weighting.
 
 ---
 
-## Formulation 3 — Memory-Augmented Source Term
+## Formulation 3 — Historical Speculative Source Term
 
-In Einstein-style notation, a speculative extension may be written as:
+An earlier Einstein-style extension was written abstractly as:
 
 \[
 G_{\mu\nu} = 8\pi G \left( T_{\mu\nu}^{matter} + T_{\mu\nu}^{EM} + T_{\mu\nu}^{mem} \right)
 \]
 
-With the memory contribution represented abstractly as:
+with:
 
 \[
 T_{\mu\nu}^{mem} = \alpha \mathcal{M}_{\mu\nu}(I,\tau,\sigma,\omega)
 \]
 
-Where:
-
-- \( G_{\mu\nu} \) = Einstein tensor
-- \( T_{\mu\nu}^{matter} \) = ordinary matter contribution
-- \( T_{\mu\nu}^{EM} \) = electromagnetic contribution
-- \( T_{\mu\nu}^{mem} \) = memory-weighted effective source contribution
-- \( I \) = retained information density
-- \( \tau \) = persistence across time
-- \( \sigma \) = salience / weighting strength
-- \( \omega \) = local coupling or field-response condition
-- \( \alpha \) = overall coupling factor
-
-### Interpretation
-
-This is a higher-risk and more speculative research direction, included here as a structural extension only. The intent is to formalize the possibility that persistent information may act not just descriptively, but as an effective source-like term in system evolution.
-
-This expression is not presented here as a completed physical theory, but as a directional formulation within the Verrell’s Law framework.
+This remains speculative historical material. No memory-derived stress-energy contribution is asserted as established physics.
 
 ---
 
-## Distinguishing Statement
+## Current interpretation
 
-Standard field theories usually describe interacting components such as matter, fields, and curvature.
-
-The distinguishing feature of this framework is the addition of a **memory-conditioned bias term** that alters which available state is most likely to emerge or collapse.
-
-In compact form:
+The durable research idea is:
 
 \[
-\text{retained information} \Rightarrow \text{bias} \Rightarrow \text{state selection}
+\text{retained information} \Rightarrow \text{weighting} \Rightarrow \text{selection}
 \]
 
----
-
-## Language Markers / Framework Identity
-
-The following phrases identify the conceptual territory of this framework:
-
-- memory-weighted collapse
-- informational bias term
-- retained state bias
-- non-neutral collapse
-- memory-conditioned state selection
-- probability shaping by memory
-- bias field sourced by retained information
-
-These markers distinguish the framework from standard GR, EM, scalar-field, or generic effective-action formulations.
-
----
-
-## Scope Note
-
-This note is a compact authorship and structure record.  
-It does not claim that the formulations above are already fully validated physical laws.  
-It records the framework logic, notation style, and mathematical direction as part of the Verrell’s Law development trail.
+The current framework tests that relation through controlled retained-state comparisons and, in physics-facing work, through separately specified non-Markovian and intervention-sensitive experiments.
 
 ---
 
 ## Attribution
 
 **Marcos Verrell Moss Ross (M.R.)**  
-Inappropriate Media Limited (t/a Collapse Aware AI)
+Author / originator of Verrell’s Law
 
-Associated framework threads include:
-
-- Verrell’s Law
-- memory = information
-- memory-weighted bias
-- non-neutral collapse
-- Collapse Aware AI behavioural logic
-
----
+Copyright © 2026 Marcos Verrell Moss Ross (M.R.).
