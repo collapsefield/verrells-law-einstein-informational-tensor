@@ -1,21 +1,13 @@
-# Intellectual Property and No-Implied-Licence Notice
+# Research Rights and Use Notice
 
-This repository is **not open source**.
+This repository is a public research archive authored by **Marcos Verrell Moss Ross (M.R.)**.
 
-Public access is provided for provenance, authorship verification, public review, research discussion, controlled evaluation, and commercial licensing visibility only.
+Where a file is marked **CC BY-NC-ND 4.0**, that licence governs use of that file. Public availability does not place the material in the public domain.
 
-No licence is granted, whether express or implied, to copy, reproduce, modify, redistribute, scrape, harvest, train AI systems on, ingest into datasets, reverse engineer, rebrand, commercialise, or create derivative implementations from any repository content without prior written permission from Inappropriate Media Limited.
+Unless a file explicitly grants broader rights, no permission is granted to present modified versions as the author's work, imply endorsement, or use repository material in a way that misrepresents the framework's current scientific status.
 
-This notice applies to all repository materials, including without limitation public theory notes, tensor formulations, memory-weighted collapse equations, computational reformulation materials, diagrams, terminology, formulas, symbolic systems, replication notes, proof materials, and related Verrell’s Law / Collapse Aware AI materials.
+Historical files may contain superseded terminology or stronger speculative claims. The current README and current canonical research documents in the main Verrell's Law repository take precedence for present interpretation.
 
-Public availability does not place this material in the public domain and does not grant open-source, commercial, research, academic, model-training, scraping, or derivative-use rights.
+This repository does **not** contain the proprietary Collapse Aware AI™ Core Gold runtime, private scoring implementation, production thresholds, protected schemas, credentials, or confidential deployment material.
 
-Patent protection is being evaluated. All copyright, database rights, trade secret rights, confidential information rights, design rights, moral rights, passing-off rights, contractual rights, and future patent rights are expressly reserved.
-
-The sealed implementation, Crown kernel, private governor behaviour, private weighting mechanisms, adapter structures, runtime evidence, scoring behaviour, continuity systems, private build materials, and unreleased implementation details remain proprietary and confidential.
-
-Any commercial use, implementation, integration, adaptation, technical evaluation, academic collaboration, or derivative development requires prior written permission from Inappropriate Media Limited.
-
-Protected under Verrell-Solace Sovereignty Protocol.  
-Intellectual and emergent rights reserved.  
-Copyright © Marcos Verrell / M.R. Verrell Moss Ross / Inappropriate Media Limited. All rights reserved.
+Copyright © 2024–2026 Marcos Verrell Moss Ross (M.R.). All rights reserved except where an explicit file licence grants otherwise.
